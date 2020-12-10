@@ -1,0 +1,52 @@
+body {
+    background-image: url(background.jpg);
+}
+
+h1 {
+    width: 500px;
+    margin: 40px auto;
+}
+
+div {
+    width: 200px;
+    margin: 40px auto;
+    height: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -100px;
+    height: 220px;
+    padding: -110px;
+}
+
+div .btn_submit_reg {
+    border: none;
+    width: 100px;
+
+
+    text-align: center;
+    background: #07a6e6;
+    font-size: 13px;
+    font-weight: bold;
+    color: #ffffff;
+    cursor: pointer;
+    height: 35px;
+    line-height: 28px;
+    padding: 0;
+}
+
+
+div .btn_submit_aut {
+    border: none;
+    width: 100px;
+    margin-top: 20px;
+    text-align: center;
+    background: #008000;
+    font-size: 13px;
+    font-weight: bold;
+    color: #ffffff;
+    cursor: pointer;
+    height: 35px;
+    line-height: 28px;
+    padding: 0;
+}
